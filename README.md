@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikolay
-- Current position: Automation Developer with Java
+- Current position: Senior Automation Developer
 - 🌱 I have graduated Lancaster Univiristy with Bachelor Degree in Computer Science
 - 📫 You can reach me on my personal e-mail: nikolay.s.gachev@gmail.com
 
